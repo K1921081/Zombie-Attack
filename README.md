@@ -1,4 +1,4 @@
-# Zombie-Attack
+# Zombie Attack
 First-person shooter game created with Unity.
 
 The game features a few menus as well as a few levels. There is a main menu, with options to start playing the game, read the instructions, check the credits or quit. 
